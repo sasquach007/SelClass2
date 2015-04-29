@@ -1,4 +1,4 @@
 Tea: 23
 Sugar: 33
-Moca: 43
+Moca: 22
 Water: free
